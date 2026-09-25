@@ -1,4 +1,4 @@
-export const CLINIC_NAME = "Clínica Lumen";
+export const CLINIC_NAME = "Dr. Karina Gonzalez";
 
 export const WHATSAPP_NUMBER = "56912345678";
 export const WHATSAPP_MESSAGE =
